@@ -1,0 +1,29 @@
+{
+  "name": "estudo",
+  "version": "1.0.0",
+  "description": "npm initi Inicia o NPM",
+  "main": "Curso Avançado de JS",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test2": "cls && echo 'Hellor Script'",
+    "exec":"node hello.js",
+    "dev": "nodemon hello.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabrielantonioduartesales/nodejsStudy.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Gabriel Antonio",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

@@ -1,0 +1,44 @@
+node "nome do arquivo": node hello.js
+    Executa o código
+
+node -v 
+    mostra a versão do node.js
+
+npm -v 
+    mostra a versão do npm 
+
+npm ls
+    mostra os pacotes instalados do npm
+
+npm init
+    gera arquivo .json
+
+npm run test2
+    executa o script por exemplo do arquivo json
+    CTRL + C sai do NPM nodemon
+
+npm i colors 
+    instala o pacote, que no caso é o colors de modelo
+
+npm i --save-dev nodemon
+    Instala o pacote, como perfil de desenvolvedor porém não é disponibilizada na produção
+
+npm r colors
+    desinstala o pacote, que no caso é o colors de modelo
+
+const colors = require("colors")
+    Aqui eu invoco o módulo colors do npm
+    é uma boa prática atribuir a uma constante um módulo
+
+cd "pasta"
+    avança para a pasta
+
+cd ..
+    volta um nível da pasta
+
+git hub:
+    git add . adiciona as modificações no repositório local
+
+    git commit commit -m "setup do tutorial" documenta o commit
+
+    git push envia a alteração para o repositório

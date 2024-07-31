@@ -1,0 +1,3 @@
+npm Instala e gerencia pacotes e os documenta.
+
+nodmeon automatiza processo, ele reinicia o servidor toda vez que o arquivo sofre alteração. Assim mantendo atualizado em tempo real
