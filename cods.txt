@@ -37,8 +37,10 @@ cd ..
     volta um nível da pasta
 
 git hub:
+    git init inicia o repositório
+
     git add . adiciona as modificações no repositório local
 
-    git commit commit -m "setup do tutorial" documenta o commit
+    git commit -m "setup do tutorial" documenta o commit
 
     git push envia a alteração para o repositório

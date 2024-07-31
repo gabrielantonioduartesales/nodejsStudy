@@ -7,7 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "test2": "cls && echo 'Hellor Script'",
     "exec":"node hello.js",
-    "dev": "nodemon hello.js"
+    "dev": "nodemon hello.js",
+    "gitlocal":"git add .",
+    "gitpush":"git push"
   },
   "repository": {
     "type": "git",
